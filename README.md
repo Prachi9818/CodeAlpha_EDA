@@ -1,1 +1,1 @@
-# CodeAlpha_EDA
+# CodeAlpha_Laptop_EDA
