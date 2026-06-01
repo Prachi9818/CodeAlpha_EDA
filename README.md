@@ -97,7 +97,7 @@ The dataset contains 1304 rows and 12 columns, including:
 
 🔗 GitHub Repository
 ---
-👉 [Paste your GitHub link here]
+https://github.com/Prachi9818
 
 ---
 
@@ -105,7 +105,6 @@ The dataset contains 1304 rows and 12 columns, including:
 ---
 👉 [Paste your LinkedIn video link here]
 
----
 
 🚀 Conclusion
 ---
